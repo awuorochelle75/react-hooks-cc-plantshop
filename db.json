@@ -41,12 +41,6 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
-    },
-    {
-      "name": "ciara",
-      "image": "https://static.wikia.nocookie.net/disney/images/0/04/Andy_medium.png/revision/latest?cb=20230915203240",
-      "price": 0.26,
-      "id": 8
     }
   ]
 }
