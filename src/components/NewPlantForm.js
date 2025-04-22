@@ -14,7 +14,7 @@ function NewPlantForm({setPlants}) {
       price: parseFloat(price),
     };
 
-     // POST to server
+    
      fetch("http://localhost:6001/plants", {
       method: "POST",
       headers: {
@@ -24,10 +24,10 @@ function NewPlantForm({setPlants}) {
     })
       .then((r) => r.json())
       .then((newPlantFromServer) => {
-        // Add new plant to list
+     
         setPlants((prevPlants) => [...prevPlants, newPlantFromServer]);
 
-        // Clear the form
+        
         setName("");
         setImage("");
         setPrice("");

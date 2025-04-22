@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "luopian",
+      "image": "https://static.wikia.nocookie.net/disney/images/0/04/Andy_medium.png/revision/latest?cb=20230915203240",
+      "price": 1.17,
+      "id": 8
     }
   ]
 }

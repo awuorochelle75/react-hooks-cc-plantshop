@@ -1,9 +1,9 @@
-# Expense Tracker
+# Plantsy Website
 
 **Rochelle Awuor** - *Phase 2(Week 2  React Code Challenge)*  
 
 ## **Description**  
- This is a responsive application built with **React**,**Vite**, and **Tailwind CSS**.This application allows users to add,view,search and purchase specific plants they desire to have.
+ This is a responsive application built with **React**,**Vite**, and **Tailwind CSS**.This application allows users to add new plants,view all plants,search for a plant and purchase specific plants they desire to have.
 
 ## **SCREENSHOTS** 
 ![alt text](/images/image.png) 
@@ -20,11 +20,11 @@
 ### **Getting the Files**  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/awuorochelle75/expense-tracker.git
+   git clone https://github.com/awuorochelle75/react-hooks-cc-plantshop.git
 
 2. **Navigate to the project folder**
     ```bash
-    cd expense-tracker
+    cd react-hooks-cc-plantshop
 
 3.  **Install dependencies**
     ```bash
@@ -34,7 +34,7 @@
     ```bash
     npm run dev
 
-5. Open **http://localhost:5173** in your browser
+5. Open **http://localhost:6001/plants** in your browser
 
 
 
@@ -44,7 +44,7 @@
 
 
 ## Contact Information
-Email: awuorochelle@gmail.com
+Email: awuorochelle75@gmail.com
 
 ## License
 MIT License @2025 Rochelle Awuor
