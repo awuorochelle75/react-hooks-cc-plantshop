@@ -6,8 +6,8 @@
  This is a responsive application built with **React**,**Vite**, and **Tailwind CSS**.This application allows users to add new plants,view all plants,search for a plant and purchase specific plants they desire to have.
 
 ## **SCREENSHOTS** 
-![alt text](/images/image.png) 
-![alt text](/images/expense.png) 
+![alt text](/images/plants.png) 
+![alt text](/images/plantsy.png) 
 
   
 ## Built With
@@ -40,7 +40,7 @@
 
 ##  Live Link 
 **Access the web  application here**
-    https://expense-tracker-olive-theta.vercel.app/
+   https://react-hooks-cc-plantshop-seven-lyart.vercel.app/
 
 
 ## Contact Information
